@@ -1,0 +1,10 @@
+顺序贴图标
+
+设计：蓝色圆角底、白色剪贴板、青色顺序粘贴箭头。
+生成方式：OpenAI 内置 image_gen 工具。随后机械缩放并转换为 Windows ICO。
+原图：src/Assets/app-icon.png
+Windows 图标：src/Assets/app.ico
+尺寸：16、20、24、32、40、48、64、96、128、256 像素，保留透明背景。
+
+最终生成提示词：
+Use case: logo-brand. Asset type: production Windows application icon for a Chinese local clipboard utility called 顺序贴. Create ONE finished square app icon, no presentation layout. A bold cobalt blue rounded-square tile, centered crisp white clipboard symbol, a small blue clipboard clip at the top, two substantial blue horizontal content bars inside the white sheet, and one compact bright cyan arrow pointing right at the lower-right to convey sequential paste. Clean simple flat vector-like geometry, professional friendly Windows productivity utility, visually balanced, crisp silhouette and thick uncomplicated shapes that remain recognizable at 16x16 pixels. The blue fits a utility interface whose accent is #2363DC. Use almost the entire canvas, with only a small uniform outer inset and genuinely transparent pixels outside the rounded-square tile. The icon tile itself must be opaque. No text, no letters, no watermark, no device mockup, no checkerboard, no background scene, no fine outlines, no elaborate shadows. Single icon only, straight-on, square composition.

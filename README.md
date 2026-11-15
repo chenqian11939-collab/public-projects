@@ -13,3 +13,10 @@
 5. 关闭程序会归档当前清单。可以通过「历史清单」查看明细。
 
 付款记录保存在本机。程序只显示二维码、记录付款状态，转账由使用者在手机上完成。
+
+## 顺序贴
+
+Windows 本地复制、顺序粘贴工具，支持自定义热键、批量粘贴、可拖动排序的迷你窗口和托盘运行。
+
+- [项目说明与源码](sequence-paste/)
+- [下载顺序贴 1.3.2 完整安装包](https://github.com/chenqian11939-collab/public-projects/releases/tag/sequence-paste-v1.3.2)

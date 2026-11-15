@@ -1,0 +1,13 @@
+# Personal clipboard contents and settings
+[Dd]ata/
+settings.json
+settings.json.*
+*.bak
+# Local builds and test results
+/dist/
+/work/
+*.exe
+*.pdb
+*.log
+install.info
+.安装临时-*/
