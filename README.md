@@ -20,3 +20,10 @@ Windows 本地复制、顺序粘贴工具，支持自定义热键、批量粘贴
 
 - [项目说明与源码](sequence-paste/)
 - [下载顺序贴 1.3.2 完整安装包](https://github.com/chenqian11939-collab/public-projects/releases/tag/sequence-paste-v1.3.2)
+
+## 图片下载助手
+
+适用于 Windows 64 位，用于按目录筛选和批量下载百度网盘里的商品图片。安装后使用自己的百度网盘账号扫码，点击「读取目录」，勾选要下载的文件夹或图片。
+
+- [图片下载助手 1.0.7 发行版](https://github.com/chenqian11939-collab/public-projects/releases/tag/picture-downloader-v1.0.7)
+- [直接下载 Windows 安装包](https://github.com/chenqian11939-collab/public-projects/releases/download/picture-downloader-v1.0.7/PictureDownloader-Setup-1.0.7.exe)
